@@ -39,7 +39,7 @@
         <tr>
             <td><?= $i; ?></td>
             <td><?= $row["id_plakat"]; ?></td>
-            <td><img src="./img/<?= $row["gambar_barang"]; ?>" alt=""></td>
+            <td><img src="./img/<?= $row["gambar_barabg"]; ?>" alt=""></td>
             <td><?= $row["nama"]; ?></td>
             <td><?= $row["jenis"]; ?></td>
             <td>RP. <?= $row["harga"]; ?></td>
